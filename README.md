@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samadhi Pathirathna!
 
 Welcome to my GitHub profile!  
-I'm passionate about software development, open-source, and building solutions that make a difference. 
+I'm passionate about software development, data analytics, open-source, and building solutions that make a difference. 
 
 ---
 
