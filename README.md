@@ -93,7 +93,7 @@ Welcome to my GitHub profile!
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samadhi-pathirathna-a770b426a/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/samadhi-pathirathna-a770b426a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="mailto:samadhipathirathna@gmail.com">
