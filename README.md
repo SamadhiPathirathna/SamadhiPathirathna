@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Samadhi Pathirathna!
 
 Welcome to my GitHub profile!  
-I'm passionate about software development, open-source, and building solutions that make a difference. This README is interactive—click around to explore my work!
+I'm passionate about software development, open-source, and building solutions that make a difference. 
 
 ---
 
 ## 🚀 About Me
 
-🎓 Graduate from SlIIT 
-
+-🎓 Graduate from SlIIT 
 - 💡 Passionate about building secure, and  responsive application.Analysing data and making insightfull dashboards and reports for better decision making.
 - ⚛️ Skilled in Java, React.js, Python, MongoDB and MySQL
 - 🔁 Strong foundation in full stack development
@@ -23,7 +22,10 @@ I'm passionate about software development, open-source, and building solutions t
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Your Tech](https://img.shields.io/badge/-YourTech-black?style=flat-square&logo=yourtech)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ---
 
@@ -34,39 +36,43 @@ I'm passionate about software development, open-source, and building solutions t
 
 ---
 
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamadhiPathirathna&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📂 Featured Projects
 
 <!-- Replace the repo links with your own repositories -->
-- [Project 1](https://github.com/SamadhiPathirathna/project1)  
-  *Short project description and main features.*
+- [Habit-Tracker](https://github.com/SamadhiPathirathna/Habit-Tracker.git)
+  *📝 Habit Tracker App A smart habit tracking app that helps users build better habits with personalized recommendations using machine learning.
 
-- [Project 2](https://github.com/SamadhiPathirathna/project2)  
-  *Short project description and main features.*
+Features
 
-- [Project 3](https://github.com/SamadhiPathirathna/project3)  
-  *Short project description and main features.*
+✅ Track Daily Habits
 
----
+✅ Personalized Habit Suggestions (ML-based)
 
-## ✍️ Blog & Articles
+✅ Data Visualization & Insights
 
-<!-- Add your blog posts or articles here -->
-- [Blog Post Title](https://yourblog.com/post)
-- [Article Title](https://medium.com/@yourusername/article)
+✅ Notifications & Reminders
+
+✅ Secure User Authentication*
+
+- [Movie-Recommendation](https://github.com/SamadhiPathirathna/Movie-Recommendation.git)
+  *This project builds a movie recommendation system using machine learning and data analysis techniques.
+  Tech Stack Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) Machine Learning (Linear Regression, Random Forest)*
+
+- [Data-Professional-Breakdown](https://github.com/SamadhiPathirathna/Data-Professional-Breakdown.git)
+  *This project is a Power BI Data Professional Breakdwon Dashboard. The dashboard visualizes how different demographic start or transfer to data professionals and the performance, trends, and insights.
+Features
+
+Interactive dashboards with filters and slicers
+
+Data visualization through bar charts, line charts, and cards*
 
 ---
 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](samadhipathirathan@gmail.com)
 
 ---
 
