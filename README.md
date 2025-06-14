@@ -1,9 +1,10 @@
  <h1 align="center">👋 Hi, I'm Samadhi Pathirathna!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer+Data+Analyst" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Data+Analyst" alt="Typing animation" />
 </p>
 Welcome to my GitHub profile!   
+
 ---
 
 ## 🚀 About Me
