@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🎓 Graduate from SlIIT 
+- 🎓 Graduate from SLIIT 
 - 💡 Passionate about building secure, and  responsive application.Analysing data and making insightfull dashboards and reports for better decision making.
 - ⚛️ Skilled in Java, React.js, Python, MongoDB, MySQL and Power BI
 - 🔁 Strong foundation in full stack development
