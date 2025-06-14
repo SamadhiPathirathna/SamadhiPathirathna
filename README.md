@@ -72,7 +72,7 @@ Welcome to my GitHub profile!
   
   *✅ Notifications & Reminders*
   
- *✅ Secure User Authentication*
+  *✅ Secure User Authentication*
 
 - [Movie-Recommendation](https://github.com/SamadhiPathirathna/Movie-Recommendation.git)
   *This project builds a movie recommendation system using machine learning and data analysis techniques.Tech Stack Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) Machine Learning (Linear Regression, Random Forest)*
