@@ -75,14 +75,18 @@ Welcome to my GitHub profile!
   *✅ Secure User Authentication*
 
 - [Movie-Recommendation](https://github.com/SamadhiPathirathna/Movie-Recommendation.git)
-  *This project builds a movie recommendation system using machine learning and data analysis techniques.Tech Stack Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) Machine Learning (Linear Regression, Random Forest)*
+  *This project builds a movie recommendation system using machine learning and data analysis techniques.*
+
+  *Tech Stack Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) Machine Learning (Linear Regression, Random Forest)*
 
 - [Data-Professional-Breakdown](https://github.com/SamadhiPathirathna/Data-Professional-Breakdown.git)
   *This project is a Power BI Data Professional Breakdwon Dashboard. The dashboard visualizes how different demographic start or transfer to data professionals and the performance, trends, and insights.*
 
-   *Features
-   Interactive dashboards with filters and slicers
-   Data visualization through bar charts, line charts, and cards*
+   *Features*
+  
+   *Interactive dashboards with filters and slicers*
+  
+   *Data visualization through bar charts, line charts, and cards*
 
 ---
 
