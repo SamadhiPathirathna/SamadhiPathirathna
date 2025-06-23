@@ -70,8 +70,6 @@ Welcome to my GitHub profile!
   
    *✅ Data Visualization & Insights*
   
-  *✅ Notifications & Reminders*
-  
   *✅ Secure User Authentication*
 
 - [Movie-Recommendation](https://github.com/SamadhiPathirathna/Movie-Recommendation.git)
