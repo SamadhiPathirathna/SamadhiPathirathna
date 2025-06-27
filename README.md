@@ -86,6 +86,11 @@ Welcome to my GitHub profile!
   
    *Data visualization through bar charts, line charts, and cards*
 
+  🍽️ [Food Suggestion Chatbot](https://github.com/SamadhiPathirathna/Food-chatbot.git)
+*A smart and friendly food recommendation chatbot that helps users discover meal suggestions for breakfast, lunch, dinner, snacks, or a full-day meal plan — with nutrition info, voice input, favorites, and light/dark mode. Built with HTML, CSS, JavaScript (frontend) and Flask (backend), powered by the Spoonacular API.*
+
+
+
 ---
 
 ## 🤝 Connect With Me
