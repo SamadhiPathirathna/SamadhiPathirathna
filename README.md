@@ -28,9 +28,13 @@ BSc (Hons) Information Technology graduate from SLIIT with real-world internship
 I sit at the intersection of business and technology — I can gather requirements, model data, build dashboards, and also build the application that delivers it. This gives me an edge in technical BA, data analyst, product analyst, and QA roles where understanding both sides matters.
 
 🏢 **DA Intern** — Automated payroll systems (EPF/ETF/multi-currency) with Python, built Power BI dashboards for HR, recruitment & finance teams
+
 🏦 **BA Intern** — Requirements elicitation, FRS documentation, UAT coordination, digital banking strategy analysis
+
 📊 Skilled in translating business needs into KPIs, dashboards, and structured documentation
+
 🛠️ Can build what I analyze — MERN stack, Python, REST APIs
+
 🌍 Open to **onsite, hybrid, and remote** opportunities
 
 ---
