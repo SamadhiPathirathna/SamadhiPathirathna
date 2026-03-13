@@ -27,11 +27,11 @@ BSc (Hons) Information Technology graduate from SLIIT with real-world internship
 
 I sit at the intersection of business and technology — I can gather requirements, model data, build dashboards, and also build the application that delivers it. This gives me an edge in technical BA, data analyst, product analyst, and QA roles where understanding both sides matters.
 
-- 🏢 **DA Intern** — Automated payroll systems (EPF/ETF/multi-currency) with Python, built Power BI dashboards for HR, recruitment & finance teams
-- 🏦 **BA Intern** — Requirements elicitation, FRS documentation, UAT coordination, digital banking strategy analysis
-- 📊 Skilled in translating business needs into KPIs, dashboards, and structured documentation
-- 🛠️ Can build what I analyze — MERN stack, Python, REST APIs
-- 🌍 Open to **onsite, hybrid, and remote** opportunities
+🏢 **DA Intern** — Automated payroll systems (EPF/ETF/multi-currency) with Python, built Power BI dashboards for HR, recruitment & finance teams
+🏦 **BA Intern** — Requirements elicitation, FRS documentation, UAT coordination, digital banking strategy analysis
+📊 Skilled in translating business needs into KPIs, dashboards, and structured documentation
+🛠️ Can build what I analyze — MERN stack, Python, REST APIs
+🌍 Open to **onsite, hybrid, and remote** opportunities
 
 ---
 
@@ -68,23 +68,6 @@ I sit at the intersection of business and technology — I can gather requiremen
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
----
-
-## 💼 Internship Highlights
-
-### 📌 Data Analyst Intern — IntalentAsia *(Jul 2025 – Jan 2026)*
-- Automated HR payroll computations (EPF/ETF, overtime, leave, multi-currency) using **Python**, improving operational efficiency by ~60%
-- Designed **Power BI dashboards** integrating HR, recruitment, and finance data — reduced manual reporting time by ~80%
-- Translated stakeholder requirements into KPIs, metrics, and executive-level dashboards
-- Performed structured data cleaning, validation, and transformation for regulatory-compliant reporting
-
-### 📌 Business Analyst Intern — Bank of Ceylon *(May 2024 – Nov 2024)*
-- Conducted requirement elicitation sessions for digital banking enhancement initiatives; produced FRS documentation
-- Acted as liaison between UI/UX teams and developers to align system features with business and accessibility objectives
-- Coordinated and executed **UAT cycles**, identifying functional defects and usability gaps prior to release
-- Reviewed digital banking accessibility features; findings informed strategic recommendations presented to senior management
-
----
 
 ## 📂 Featured Projects
 
